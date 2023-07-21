@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,U as l}from"./chunks/framework.2333ef68.js";const C=JSON.parse('{"title":"闭包","description":"","frontmatter":{},"headers":[],"relativePath":"面试之路/闭包.md","filePath":"面试之路/闭包.md"}'),p={name:"面试之路/闭包.md"},o=l("",80),e=[o];function t(c,r,F,y,D,A){return a(),n("div",null,e)}const f=s(p,[["render",t]]);export{C as __pageData,f as default};

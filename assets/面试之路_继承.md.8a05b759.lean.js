@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,U as l}from"./chunks/framework.2333ef68.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"面试之路/继承.md","filePath":"面试之路/继承.md"}'),p={name:"面试之路/继承.md"},o=l("",19),t=[o];function e(c,r,y,F,D,A){return n(),a("div",null,t)}const f=s(p,[["render",e]]);export{i as __pageData,f as default};

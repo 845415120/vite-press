@@ -1,0 +1,1 @@
+import{_ as l,o as i,c as a,U as t}from"./chunks/framework.2333ef68.js";const u=JSON.parse('{"title":"前端性能优化","description":"","frontmatter":{},"headers":[],"relativePath":"面试之路/前端性能优化.md","filePath":"面试之路/前端性能优化.md"}'),e={name:"面试之路/前端性能优化.md"},o=t("",14),r=[o];function s(n,_,c,p,h,d){return i(),a("div",null,r)}const b=l(e,[["render",s]]);export{u as __pageData,b as default};
